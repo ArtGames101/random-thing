@@ -1,0 +1,6 @@
+import sys, os
+def main():
+    io.print("Hello!?!?!?!?!")
+    io.stp("ok?")
+    main()
+main()
